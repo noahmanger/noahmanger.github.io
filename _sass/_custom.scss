@@ -1,0 +1,15 @@
+section {
+  @include outer-container;
+
+  h1 {
+    @include span-columns(12);
+    background:#333;
+    color: #fff;
+    padding: 20px;
+  }
+}
+
+.welcome {
+  background: #cdcdcd;
+  @include span-columns(12);
+}

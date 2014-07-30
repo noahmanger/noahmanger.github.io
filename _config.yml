@@ -1,0 +1,5 @@
+name: 'Noah Manger'
+description: 'Designer at 18F'
+basurl: /manger
+sass:
+  style: compressed
