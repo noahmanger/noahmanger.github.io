@@ -4,6 +4,16 @@
     {% include head.html %}
   </head>
   <body itemscope itemtype="http://schema.org/WebPage">
+    <header>
+      <h1>{{ page.title }}</h1>
+      <nav>
+        <ul>
+        {% for nav in site.data.nav %}
+          <li><a href="{{ baseurl }}{{ nav.url }}">{{nav.title}}</a></li>
+        {% endfor %}
+        </ul>
+      </nav>
+    </header>
     {{ content }}
   </body>
 </html>

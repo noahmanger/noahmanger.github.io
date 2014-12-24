@@ -1,5 +1,5 @@
 name: 'Noah Manger'
 description: 'Designer at 18F'
-basurl: /manger
+basurl: 0.0.0.0:4000/
 sass:
-  style: compressed
+  style: :compressed

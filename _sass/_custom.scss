@@ -1,15 +1,22 @@
 section {
   @include outer-container;
+}
 
-  h1 {
-    @include span-columns(12);
-    background:#333;
-    color: #fff;
-    padding: 20px;
+.bullet-points {
+  aside {
+    @include media($mobile) {
+      @include span-columns(4);
+    }
+    @include media($desktop) {
+      @include span-columns(4);
+    }
   }
 }
 
-.welcome {
-  background: #cdcdcd;
-  @include span-columns(12);
+aside {
+  margin-bottom: $base-line-height;
+}
+
+header {
+  @include outer-container;
 }

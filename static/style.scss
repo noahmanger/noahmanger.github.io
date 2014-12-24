@@ -1,6 +1,11 @@
 ---
 ---
+// Importing bourbon libraries [bourbon.io]
 @import 'bourbon/bourbon';
-@import 'neat/neat';
+
+// Importing base styles, scaffolded using bitters [bitters.bourbon.io]
+// Neat is imported from within base
 @import 'base/base';
+
+// All customization is in here
 @import 'custom';
