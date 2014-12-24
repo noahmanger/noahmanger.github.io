@@ -1,7 +1,0 @@
-name: 'Noah Manger'
-email: noah.manger@gmail.com
-description: 'Designer at 18F'
-basurl: 0.0.0.0:4000
-markdown: kramdown
-permalink: pretty
-exclude: ['LICENSE.md', README.md, Gemfile, Gemfile.lock]
