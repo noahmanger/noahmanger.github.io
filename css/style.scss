@@ -1,0 +1,34 @@
+---
+---
+// Importing bourbon libraries [bourbon.io]
+@import 'bourbon/bourbon';
+
+// Importing base styles, scaffolded using bitters [bitters.bourbon.io]
+// Neat is imported from within base
+@import 'base/base';
+
+// All customization is in here
+@import 'custom';
+
+section {
+  @include outer-container;
+}
+
+.bullet-points {
+  aside {
+    @include media($mobile) {
+      @include span-columns(4);
+    }
+    @include media($desktop) {
+      @include span-columns(4);
+    }
+  }
+}
+
+aside {
+  margin-bottom: $base-line-height;
+}
+
+header {
+  @include outer-container;
+}
