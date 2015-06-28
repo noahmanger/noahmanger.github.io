@@ -3,50 +3,90 @@
 ---
 @charset "utf-8";
 
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "variables",
+        "skeleton",
+        "syntax-highlighting"
+;
 
-
-// Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
-
-$spacing-unit:     30px;
-
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
-
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
-
-// Width of the content area
-$content-width:    800px;
-
-$on-palm:          600px;
-$on-laptop:        800px;
-
-
-
-// Using media queries with like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
-@mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
+// Layout
+html,
+body {
+  height: 100%;
 }
 
 
+// Site header
+.site-header {
+  background-color: $gray-1;
+  height: 100%;
+  padding: 2rem;
 
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout",
-        "syntax-highlighting"
-;
+  a {
+    color: #fff;
+  }
+}
+
+.site-title {
+  font-size: 2.7rem;
+}
+
+.site-nav {
+  margin: 5rem 0;
+}
+
+// Site Footer
+
+.site-footer {
+  border-top: 1px solid $gray-3;
+  padding: 2rem 0;
+}
+
+// Icons
+.icon svg {
+  width: 20px;
+
+}
+
+
+// Utilities
+.u-no-bullets {
+  list-style-type: none;
+  margin: 0;
+}
+
+.u-m-0 {
+  margin: 0;
+}
+
+// Typography
+a,
+a:hover,
+a:link,
+a:active,
+a:visited {
+  text-decoration: none;
+}
+
+// Page
+.page-header {
+  padding: 2rem 0;
+  border-bottom: 1px solid $gray-3;
+}
+
+// Posts
+.post {
+  margin: 2rem 0;
+  max-width: 600px;
+}
+
+.post-title {
+  margin-bottom: 0;
+}
+
+.post-meta {
+  font-size: 1.4rem;
+  color: $gray-2;
+  margin-bottom: 1rem;
+}

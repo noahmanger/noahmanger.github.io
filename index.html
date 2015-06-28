@@ -1,9 +1,18 @@
 ---
 layout: default
+title: Blog
 ---
 
-<div class="home">
-
- <h1>Coming Soon</h1>
-
-</div>
+<section class="post-list">
+ {% for post in site.posts %}
+  <article class="post">
+    <header>
+      <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+      <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
+    </header>
+    <div class="post-content">
+      {{ post.content }}
+    </div>
+  </article>
+ {% endfor %}
+</section>
