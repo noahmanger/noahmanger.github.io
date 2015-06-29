@@ -5,6 +5,8 @@
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
+        "bourbon/bourbon",
+        "neat/neat",
         "variables",
         "skeleton",
         "syntax-highlighting"
@@ -16,15 +18,34 @@ body {
   height: 100%;
 }
 
+.site-wrapper {
+  @media (min-width: $medium) {
+    @include display(flex);
+    @include flex-direction(row);
+    @include align-items(stretch);
+    min-height: 100%;
+  }
+}
 
 // Site header
 .site-header {
   background-color: $gray-1;
-  height: 100%;
   padding: 2rem;
 
   a {
     color: #fff;
+  }
+
+  .social {
+    display: none;
+  }
+
+  @media (min-width: $medium) {
+    min-width: 220px;
+    min-height: 100%;
+    .social {
+      display: block;
+    }
   }
 }
 
@@ -33,7 +54,32 @@ body {
 }
 
 .site-nav {
-  margin: 5rem 0;
+  margin: 1rem 0 0 0;
+
+  li {
+    display: inline-block;
+    margin-bottom: 0;
+    padding: 0 2rem;
+    border-right: 1px solid $gray-2;
+
+    &:first-child {
+      padding-left: 0;
+    }
+
+    &:last-child {
+      border-right: none;
+    }
+  }
+
+  @media (min-width: $medium) {
+    margin: 5rem 0;
+
+    li {
+      display: block;
+      padding: 0;
+      border: none;
+    }
+  }
 }
 
 // Site Footer
@@ -41,6 +87,16 @@ body {
 .site-footer {
   border-top: 1px solid $gray-3;
   padding: 2rem 0;
+
+  .content {
+    padding: 0 2rem;
+  }
+
+  @media(min-width: $medium) {
+    .content {
+      padding: 0;
+    }
+  }
 }
 
 // Icons
@@ -70,11 +126,19 @@ a:visited {
 }
 
 // Page
+
 .page-header {
   padding: 2rem 0;
   border-bottom: 1px solid $gray-3;
 }
 
+.page-content {
+  padding: 0 2rem;
+
+  @media (min-width: $medium) {
+    height: 100%;
+  }
+}
 // Posts
 .post {
   margin: 2rem 0;
