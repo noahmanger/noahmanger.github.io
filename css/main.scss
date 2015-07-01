@@ -27,8 +27,20 @@ body {
   }
 }
 
+// Animations
+@include keyframes(slideIn) {
+  from {
+    @include transform(translate3d(-100%, 0, 0));
+  }
+  to {
+    @include transform(translate3d(0, 0, 0));
+  }
+}
+
 // Site header
 .site-header {
+  @include animation(bounceInLeft .7s);
+
   background-color: $gray-1;
   padding: 2rem;
 
@@ -87,6 +99,8 @@ body {
 .site-footer {
   border-top: 1px solid $gray-3;
   padding: 2rem 0;
+  color: $gray-3;
+  font-size: 1.4rem;
 
   .content {
     padding: 0 2rem;
@@ -141,16 +155,22 @@ a:visited {
 }
 // Posts
 .post {
-  margin: 2rem 0;
+  margin: 2rem 0 4rem;
   max-width: 600px;
+  border-bottom: 1px solid $gray-3;
 }
 
 .post-title {
-  margin-bottom: 0;
+  margin-bottom: 2rem;
 }
 
 .post-meta {
   font-size: 1.4rem;
+  display: block;
   color: $gray-2;
-  margin-bottom: 1rem;
+  margin-bottom: 0;
+
+  .permalink {
+    float: right;
+  }
 }
