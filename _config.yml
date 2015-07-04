@@ -3,7 +3,7 @@ title: Noah Manger
 email: noah.manger@gmail.com
 description: Personal site of Noah Manger. Work in progress.
 baseurl: ""
-url: "http://noahmanger.com" # the base hostname & protocol for your site
+url: "http://noahmanger.me" # the base hostname & protocol for your site
 twitter_username: noahmanger
 github_username:  noahmanger
 excerpt_separator: <!--more-->
