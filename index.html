@@ -1,17 +1,19 @@
 ---
 layout: default
 title: Blog
+status: published
 ---
 
 <section class="post-list">
  {% for post in site.posts %}
   <article class="post">
-    <header>
-      <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}<a class="permalink" href="{{ post.url }}">Permalink »</a></p>
+    <header class="post-header">
       <h2 class="post-title">{{ post.title }}</h2>
+      <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</p>
     </header>
     <div class="post-content">
-      {{ post.content }}
+      {{ post.excerpt }}
+      <a class="permalink" href="{{ post.url }}">Read more »</a>
     </div>
   </article>
  {% endfor %}

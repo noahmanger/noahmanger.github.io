@@ -20,7 +20,7 @@ body {
 }
 
 .site-wrapper {
-  @media (min-width: $medium) {
+  @media (min-width: $tablet) {
     @include display(flex);
     @include flex-direction(row);
     @include align-items(stretch);
@@ -40,20 +40,23 @@ body {
 
 // Site header
 .site-header {
-  @include animation(bounceInLeft .7s);
-
   background-color: $gray-1;
   padding: 2rem;
 
   a {
+    @include animation(bounceInDown .7s);
     color: #fff;
+
+    &.disabled {
+      opacity: .5;
+    }
   }
 
   .social {
     display: none;
   }
 
-  @media (min-width: $medium) {
+  @media (min-width: $tablet) {
     min-width: 220px;
     min-height: 100%;
     .social {
@@ -84,7 +87,7 @@ body {
     }
   }
 
-  @media (min-width: $medium) {
+  @media (min-width: $tablet) {
     margin: 5rem 0;
 
     li {
@@ -107,7 +110,7 @@ body {
     padding: 0 2rem;
   }
 
-  @media(min-width: $medium) {
+  @media(min-width: $tablet) {
     .content {
       padding: 0;
     }
@@ -147,21 +150,47 @@ a:visited {
   border-bottom: 1px solid $gray-3;
 }
 
-.page-content {
+.page {
   padding: 0 2rem;
 
-  @media (min-width: $medium) {
+  @media (min-width: $tablet) {
+    padding: 0 2rem 0 4rem;
     height: 100%;
   }
 }
+
+.content {
+  padding: 2rem 0;
+  max-width: 600px;
+
+  img {
+    max-width: 100%;
+    padding: 5rem;
+    border: 1px solid $gray-4;
+  }
+}
+
 // Posts
 .post {
   margin: 2rem 0 4rem;
-  max-width: 600px;
   border-bottom: 1px solid $gray-3;
+  padding-bottom: 4rem;
+
+  &:first-child {
+    margin-top: 0;
+  }
+
+  &:last-of-type {
+    border-bottom: none;
+    margin-bottom: 0;
+  }
 }
 
 .post-title {
+  margin-bottom: 0;
+}
+
+.post-header {
   margin-bottom: 2rem;
 }
 
@@ -174,4 +203,10 @@ a:visited {
   .permalink {
     float: right;
   }
+}
+
+.footnotes {
+  font-size: 1.2rem;
+  border-top: 1px dotted $gray-3;
+  padding-top: 1rem;
 }
