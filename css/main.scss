@@ -166,9 +166,13 @@ a:visited {
   img {
     max-width: 100%;
     height: auto;
-    padding: 5rem;
-    border: 1px solid $gray-4;
   }
+}
+
+// Image styles
+.framed {
+  padding: 5rem;
+  border: 1px solid $gray-4;
 }
 
 // Posts
@@ -185,6 +189,11 @@ a:visited {
     border-bottom: none;
     margin-bottom: 0;
   }
+
+  ol, ul {
+    padding-left: 2rem;
+  }
+
 }
 
 .post-title {

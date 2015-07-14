@@ -5,7 +5,7 @@ title: About
 status: published
 
 ---
-![Noah Manger](/photos/noahmanger.jpg)
+<img alt="Noah Manger" class="framed" src="/photos/noahmanger.jpg">
 
 My name's Noah Manger and I'm a 28 year old white guy working as a designer in the civic technology world. I care about justice, democracy, design and technology, and that's most of what I'll be writing about here. 
 

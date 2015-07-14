@@ -5,7 +5,7 @@ title: America the Work-in-Progress
 
 ---
 
-<a href="https://www.flickr.com/photos/library_of_congress/2179077974" title="A Fourth of July celebration, St. Helena Island, S.C.  (LOC) by The Library of Congress, on Flickr"><img src="https://c1.staticflickr.com/3/2284/2179077974_b284a8613e_z.jpg?zz=1" width="640" height="451" alt="A Fourth of July celebration, St. Helena Island, S.C.  (LOC)"></a>
+<a href="https://www.flickr.com/photos/library_of_congress/2179077974" title="A Fourth of July celebration, St. Helena Island, S.C.  (LOC) by The Library of Congress, on Flickr"><img class="framed" src="https://c1.staticflickr.com/3/2284/2179077974_b284a8613e_z.jpg?zz=1" width="640" height="451" alt="A Fourth of July celebration, St. Helena Island, S.C.  (LOC)"></a>
 
 As I start out this Fourth of July weekend as a real life federal employee for the first time, working to make a government that runs a little smoother and serves its people a little better, I've been thinking about patriotism.  
 
