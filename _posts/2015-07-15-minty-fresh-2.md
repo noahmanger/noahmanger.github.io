@@ -6,7 +6,7 @@ title: Using Mint to keep a budget, part 2
 ---
 <a title="Philadelphia Mint smelting room (Library of Congress)" href="https://www.loc.gov/resource/ppmsca.09415/"><img class="framed" src="/img/2015/minty-fresh-2/smelting-room.jpg" alt="Philadelphia Mint smelting room (Library of Congress)"></a>
 
-The other day, I posted [part 1](/minty-fresh) of a guide on how I use [Mint](http://mint.com) to keep a budget. I was pleasently surprised with the response it got and was glad to hear it was useful. That post covers the main high level strategies that help make Mint useful to me, and in this post I'm going to cover a few of the more granular tactics I use that keep my routine running smoothly. 
+The other day, I posted [part 1](/2015/07/13/minty-fresh) of a guide on how I use [Mint](http://mint.com) to keep a budget. I was pleasently surprised with the response it got and was glad to hear it was useful. That post covers the main high level strategies that help make Mint useful to me, and in this post I'm going to cover a few of the more granular tactics I use that keep my routine running smoothly. 
  
 <!--more-->
 
