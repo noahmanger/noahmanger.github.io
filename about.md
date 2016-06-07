@@ -7,8 +7,8 @@ status: published
 ---
 <img alt="Noah Manger" class="framed" src="/photos/noahmanger.jpg">
 
-My name's Noah Manger and I'm a 28 year old white guy working as a designer in the civic technology world. I care about justice, democracy, design and technology, and that's most of what I'll be writing about here. 
+My name's Noah Manger and I care about justice, democracy, design and technology, and that's most of what I'll be writing about here.
 
-I've worked as an electoral organizer and vote-driver, an event planner and a conference-creator, and now as a designer and frontend developer at [18F](https://18f.gsa.gov). 
+I've worked as an electoral organizer and vote-driver, an event planner and a conference-creator, and now as a designer, produt person and front-end developer at [18F](https://18f.gsa.gov).
 
-I grew up in Michigan, lived in Portland for a minute and now live in Oakland, California. Find me on [Twitter](https://twitter.com/noahmanger) and [GitHub](https://github.com/noahmanger) or [send me an email](mailto:noah.manger@gmail.com) if you want. 
+I grew up in Michigan, and now live in Portland, Oregon. Find me on [Twitter](https://twitter.com/noahmanger) and [GitHub](https://github.com/noahmanger) or [send me an email](mailto:noah.manger@gmail.com) if you want. 
