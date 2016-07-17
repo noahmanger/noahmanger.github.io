@@ -3,7 +3,6 @@ layout: post
 title: We can’t hug this one out
 ---
 ![Photos of protestors and police hugging](/img/2016/hugs.jpg)
-*Police and a protestor in Dallas (left) and dancing with kids in Florida, 2016*
 
 For all the pain we’re collectively shouldering right now, I like to see people looking for sources of uplift, wherever that may come from. For some, it’s sports, a TV show, or just spending time with the people they love. I see others taking some measure of relief from small moments of racial bonding and reconciliation. These moments are captured in photos, Reddit threads and Facebook posts, spreading virally across progressive and conservative networks alike.
 
