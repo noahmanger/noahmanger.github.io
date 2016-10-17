@@ -6,6 +6,8 @@ We could all do more to be a little safer online, and that’s even more apparen
 
 It might sound sophisticated, but posing as a legitimate company in order to trick people into handing over important data is a common exploit. 
 
+<!--more-->
+
 ## Why you should care
 Maybe you’re thinking, “But I don’t have any sensitive email that anyone would want to get, so what’s the point?” With access to an email account, you can basically get access to every other account by using a service’s password reset form. This could expose your banking, your photos, and your entire identity.
 
