@@ -1,6 +1,6 @@
 ---
-Layout: post
-Title: Three tips to be more secure online
+layout: post
+title: Three tips to be more secure online
 ---
 We could all do more to be a little safer online, and that’s even more apparent after learning how the recent email hack went down. Here’s how a Russian government hacking group was able to hack into DNC and Clinton staff emails [according to Buzzfeed](https://www.buzzfeed.com/sheerafrenkel/russian-hackers-faked-gmail-password-form-to-invade-dnc-emai): they sent some official-looking emails to these people with instructions to reset their passwords. The password reset page looked like an official Google page and asked for their current passwords. And apparently enough people fell for the trap.
 
