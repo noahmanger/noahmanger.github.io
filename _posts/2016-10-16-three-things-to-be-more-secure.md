@@ -50,10 +50,10 @@ Even better, `https` means that the site has been certified to be who they says 
 
 `https` sites are super easy to see because most browsers display them differently in the address bar with a little lock icon:
 
-*Chrome:*
+#### *Chrome:*
 ![Chrome HTTPS](/img/2016/chrome.png)
 
-*Safari:*
+#### *Safari:*
 ![Safari HTTPS](/img/2016/safari.png)
 
 Most major websites these days only use `https`, and others at least do it when asking for sensitive info. If a page is asking you for a credit card, Social Security number or password, you should always check for `https`. 
