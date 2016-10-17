@@ -24,6 +24,7 @@ It adds one extra step, but because you can tell it to remember your device, you
 Long story short, **if you use a website that gives you this option, you should turn it on.** You should absolutely turn it on for your email, Facebook, and iCloud accounts, as those are often the basis for logging into other services. Once you do it for those, turn it on for anything else you can. 
 
 Here’s the instructions for how to do it for some common services:
+
 - [Gmail](https://www.google.com/landing/2step/)
 - [Facebook](https://www.facebook.com/help/148233965247823)
 - [Apple ID](https://support.apple.com/en-us/HT204915)
