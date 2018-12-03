@@ -5,7 +5,7 @@ title: About
 status: published
 
 ---
-<img alt="Noah Manger" class="framed" src="/img/noahmanger.jpg">
+<img alt="Noah Manger" class="framed" src="/img/profile.jpg">
 
 My name's Noah Manger and I care about justice, democracy, design and technology, and that's most of what I'll be writing about here.
 
