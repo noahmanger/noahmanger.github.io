@@ -1,6 +1,7 @@
 ---
 layout: post
 title: We can’t hug this one out
+archive: true
 ---
 ![Photos of protestors and police hugging](/img/2016/hugs.jpg)
 

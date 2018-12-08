@@ -2,7 +2,7 @@
 
 layout: post
 title: Using Mint to keep a budget, part 1
-
+archive: true
 ---
 
 <a title="'As Uncle Sam prepares  to move his gold from the mint...'" href="http://www.loc.gov/pictures/resource/hec.21981/"><img class="framed" src="/img/2015/minty-fresh/loc-mint.jpg" alt="'As Uncle Sam prepares  to move his gold from the mint...'"></a>

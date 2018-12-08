@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Lessons from tech, for non-tech people
+archive: true
 ---
 
 Before I started working in tech, I worked at a non-profit called the Bus Project, focused on expanding access to democracy and building power for young people. My career transition has forced me to learn not just new skills, but a whole new way of working, and lately I've been thinking about what lessons I've learned that I would have loved to know as a non-tech worker.

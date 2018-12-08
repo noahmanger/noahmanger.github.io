@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Write it out
+archive: true
 ---
 
 So why start a blog now? Good question! I've been asking myself that for a while as I've been trying to decide whether to start one. The answer I keep coming back to is that I want to be a better thinker. I want to learn to sharpen my analsysis, put thoughts into words, and build arguments where otherwise I might've settled for hand-waiving. 

@@ -2,7 +2,7 @@
 
 layout: post
 title: Using Mint to keep a budget, part 2
-
+archive: true
 ---
 <a title="Philadelphia Mint smelting room (Library of Congress)" href="https://www.loc.gov/resource/ppmsca.09415/"><img class="framed" src="/img/2015/minty-fresh-2/smelting-room.jpg" alt="Philadelphia Mint smelting room (Library of Congress)"></a>
 
