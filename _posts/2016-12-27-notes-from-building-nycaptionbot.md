@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Notes from building @NewYorkerCaptionBot
+archive: true
 ---
 
 <img class="framed" src="/img/2016/newyorker.jpg" alt="A New Yorker cartoon with the caption 'How soon until the trolls arrive?'">
