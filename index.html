@@ -6,7 +6,7 @@ status: published
 
 <section class="post-list">
  {% for post in site.posts %}
-    {% unless post.archive == "true" %}
+    {% unless post.archive %}
         <article class="post">
             <header class="post-header">
                   <h2 class="post-title">{{ post.title }}</h2>
