@@ -1,4 +1,7 @@
-Weekly Recommendations - December 12, 2018
+---
+layout: post
+title: Weekly Recommendations - December 12, 2018
+---
 
 Between travel and getting ready for the holidays, media time is at a low for me these days. But I found some good things and wanna tell you about them.
 
