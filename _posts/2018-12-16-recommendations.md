@@ -5,6 +5,8 @@ title: Weekly Recommendations - December 12, 2018
 
 Between travel and getting ready for the holidays, media time is at a low for me these days. But I found some good things and wanna tell you about them.
 
+<!--more-->
+
 ## Reading
 Ok, so this one isn’t a recommendation per se because I’m not sure how many people other than me will love this, but hands-down my favorite thing from the week was Vulture [ranking the Original Kings of Catchphrase Comedy](https://www.vulture.com/2018/11/snl-kings-of-catchphrase-comedy-ranking-bobby-moynihan.html). This is one of my all-time favorite series of SNL sketches (watch them [here](https://www.nbc.com/saturday-night-live/video/comedy-tour/n13080), [here](https://www.nbc.com/saturday-night-live/video/comedy-tour-2/n13255) and [here](https://www.nbc.com/saturday-night-live/video/web-exclusive-comedy-tour-3/n13527)) for its perfect combination of outright silliness and pitch perfect skewering of niche comedy archetypes. It’s perfect in so many ways and I’m glad to see it get the listicle treatment. I have my issues with the rankings, but it’s all made up for by the fact that this article introduced me to the real world inspiration for Slappy Pappy.
 
