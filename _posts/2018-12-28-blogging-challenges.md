@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Some Challenges We Need to Overcome Between Here and Our Blogging Future
+title: Some Challenges We Need to Figure Out Between Now and Our Blogging Future
 ---
 
 I [haven’t been alone](https://twitter.com/s_m_i/status/1078153360417550336?s=21) in wanting to see a resurgence of personal websites and blogs these days. Personal sites and blogs are really attractive for a few reasons:
