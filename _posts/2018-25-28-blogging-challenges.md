@@ -14,6 +14,8 @@ I [haven’t been alone](https://twitter.com/s_m_i/status/1078153360417550336?s=
 
 But as I’ve set out to revitalize my own personal site with the goal of moving more of my writing from Twitter to there, and as I’ve tried to think about how to encourage others to do the same, I’ve hit upon some challenges that I think we need to figure out.
 
+<!--more-->
+
 ## Challenges
 There’s so many elemental challenges to a future where more content lives on personal blogs than on social media. There’s the simple fact that it takes far more effort to set up a website and write posts than to fire off tweets, plus the nearly infinite array of forces that keep us coming back to social media to scroll endlessly. But suppose that you’ve conquered all that and you’re determined to blog—as I am—you’ll still run into a handful of additional challenges.
 
