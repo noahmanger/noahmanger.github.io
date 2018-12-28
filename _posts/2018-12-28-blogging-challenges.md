@@ -37,6 +37,9 @@ I know, the idea of a directory in 2019 feels kind of insane, but hear me out. W
 ### Use social media
 We’re not going to get completely free of social media any time soon, so how can we use it to spur some momentum here? There’s probably some plays involving hashtags, Reddit forums, Slack groups, etc to get visibility for folks interested in doing this. And this would give folks who have larger followings a chance to promote others who are just starting out.
 
+### Email newsletters
+Maybe the key to all of this is something that's already been growing: the simple email newsletter. I've been following a few of these now, and am considering spinning one up as well as a means of distributing my blogs to people who would prefer that method. This definitely helps out on the distribution problem, and also the engagement issue as well, as you can see how many subscribers you have and have exchanges the old fashioned way: over email.
+
 ---
 
 I definitely don’t have all the answers here, but I hope this post finds people might have some insight. I think there’s a lot of people like me out there who want to do this but aren’t quite sure how or where to start. Personally, I’m starting by just writing and seeing where that goes. I hope others will do the same.
