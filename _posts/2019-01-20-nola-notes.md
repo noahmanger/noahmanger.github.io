@@ -21,7 +21,7 @@ Yes, you can still go on a plantation tour and yes, the main public square is a 
 Then again, I say that knowing that it’s probably a really tough judgement to make as a white northerner who just spent nine days in the city, which is a qualification that I suppose should apply to everything that follows.
 
 ## Food
-![Josephine Estelle](/img/2009/nola/ace.jpeg)
+![Josephine Estelle](/img/2019/nola/ace.jpeg)
 
 My starting point in a new city is always a combination of the [Eater 38 list](https://nola.eater.com/maps/best-restaurants-new-orleans-38-map-nola) for that city and recommendations from friends.  One of my goals when eating here was to get beyond the Cajun and Southern staples that I knew would be everywhere, and I’m pretty happy with how well I was able to find food that was a little lighter and a little more unexpected. While I didn’t get to every place I was hoping to, I did get to some real gems. 
 
@@ -40,7 +40,7 @@ Honorable mentions:
 - **Lafitte’s Blacksmith Shop**: This Frenchmen Street bar holds the claim of being the bar in the oldest structure in America. It was a fine bar, but the space was pretty cool.
 
 ## Activities
-![Ogden Museum of Southern Art](/img/2009/nola/ogden.jpeg)
+![Ogden Museum of Southern Art](/img/2019/nola/ogden.jpeg)
 
 Apart from eating and working during the week, I was mostly 
 wandering around. Definitely spent some time in the classic tourist spots — Jackson Square, French Quarter — and also got to walk all the way down Magazine Street and briefly hit Bywater.
@@ -52,7 +52,7 @@ wandering around. Definitely spent some time in the classic tourist spots — Ja
 - **Kermit Ruffin:** From what I gather, he’s a pretty big deal in the local music scene. I only caught the tail end of his set at Blue Nile on Frenchmen, but he was great and worth seeking out if you’re looking for live music.
 - **Foot massages:** While hardly unique to the city, I never get foot massages but after experiencing the magic after a long week of walking around, I’m thinking I’m going to need to make this a regular habit on trips. 
 
-![Studio BE](/img/2009/nola/studio-be.jpeg)
+![Studio BE](/img/2019/nola/studio-be.jpeg)
 
 In conclusion, New Orleans is Good and you should go.
 
